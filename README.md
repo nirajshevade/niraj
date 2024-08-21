@@ -1,2 +1,3 @@
 # niraj
-My first repository 
+My first Git repository 
+Author: niraj Shevade
